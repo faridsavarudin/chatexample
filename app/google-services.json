@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1051116553118",
+    "firebase_url": "https://praunper.firebaseio.com",
+    "project_id": "praunper",
+    "storage_bucket": "praunper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051116553118:android:5a858b635b25c17b",
+        "android_client_info": {
+          "package_name": "com.kominfo.praunper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051116553118-1rmf2cjcik4rastf2p8gq9cmfv6e6n79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kominfo.praunper",
+            "certificate_hash": "edb7fba393eb4b4f0e31063695a01cd8ae21e855"
+          }
+        },
+        {
+          "client_id": "1051116553118-31m4eusgnitd2ieotgmgjtof8g72ce46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoWWfo3HI0h_RH0-0xt8MJEDmgZJTrm8w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051116553118-31m4eusgnitd2ieotgmgjtof8g72ce46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
